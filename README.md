@@ -1,9 +1,9 @@
-# Namma Yatri — Ride Demand, Revenue & Cancellation Analysis
+﻿# Namma Yatri â€” Ride Demand, Revenue & Cancellation Analysis
 
 Analysis of ride-booking data for Namma Yatri to understand demand patterns, revenue
 concentration and the cancellation funnel, and to recommend operational improvements.
 
-**Stack:** Python · Pandas · SQL · Power BI · Tableau
+**Stack:** Python Â· Pandas Â· SQL Â· Power BI Â· Tableau
 
 ---
 
@@ -22,9 +22,9 @@ the most demand and revenue.
 ## Approach
 
 1. Cleaned and joined the five tables into a single analysis-ready dataset.
-2. Demand analysis by hour of day, day type and zone — peak windows and high-performing areas.
-3. Revenue analysis — revenue share by time period and zone.
-4. Cancellation/funnel analysis — completion rate split by who cancelled.
+2. Demand analysis by hour of day, day type and zone â€” peak windows and high-performing areas.
+3. Revenue analysis â€” revenue share by time period and zone.
+4. Cancellation/funnel analysis â€” completion rate split by who cancelled.
 5. Dashboards built in Power BI and Tableau for operational review.
 
 ## Results
@@ -36,7 +36,7 @@ the most demand and revenue.
 | Driver cancellation rate | **47.3%** |
 
 - Demand concentrates in identifiable peak hours, with strong zone-level variation.
-- Cancellations are almost evenly split between customers and drivers — so fixing only one
+- Cancellations are almost evenly split between customers and drivers â€” so fixing only one
   side of the marketplace would recover less than half of the lost rides.
 
 ## Recommendations
@@ -54,5 +54,5 @@ the most demand and revenue.
 
 ---
 
-**Author:** Rajat Singh · [LinkedIn](https://www.linkedin.com/in/rajat-singh-13494231) · [Portfolio](https://github.com/Rajat-Singh-Source/data-analytics-portfolio) · [Profile](https://github.com/Rajat-Singh-Source)
+**Author:** Rajat Singh Â· [LinkedIn](https://www.linkedin.com/in/rajatsingh-dataanalyst) Â· [Portfolio](https://github.com/Rajat-Singh-Source/data-analytics-portfolio) Â· [Profile](https://github.com/Rajat-Singh-Source)
 
